@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\bin\Debug\netcoreapp3.1\Obj-Argumento-24.exe
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\bin\Debug\netcoreapp3.1\Obj-Argumento-24.deps.json
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\bin\Debug\netcoreapp3.1\Obj-Argumento-24.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\bin\Debug\netcoreapp3.1\Obj-Argumento-24.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\bin\Debug\netcoreapp3.1\Obj-Argumento-24.dll
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\bin\Debug\netcoreapp3.1\Obj-Argumento-24.pdb
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\obj\Debug\netcoreapp3.1\Obj-Argumento-24.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\obj\Debug\netcoreapp3.1\Obj-Argumento-24.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\obj\Debug\netcoreapp3.1\Obj-Argumento-24.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\obj\Debug\netcoreapp3.1\Obj-Argumento-24.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\obj\Debug\netcoreapp3.1\Obj-Argumento-24.dll
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\obj\Debug\netcoreapp3.1\Obj-Argumento-24.pdb
+C:\Users\gabriel\Documents\GitHub\Obj-Argumento-24\obj\Debug\netcoreapp3.1\Obj-Argumento-24.genruntimeconfig.cache
