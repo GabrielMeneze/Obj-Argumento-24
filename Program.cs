@@ -14,6 +14,7 @@ namespace Obj_Argumento_24
             Produto p2 = new Produto(2, "Calça Tactel", 60f);
             Produto p3 = new Produto(3, "Jaqueta Corta vento", 299.99f);
             Produto p4 = new Produto(4, "Camisa Olic", 99.99f);
+            System.Console.WriteLine();
             
             cart.Adicionar(p1);
             cart.Adicionar(p2);
